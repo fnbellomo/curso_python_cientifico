@@ -58,3 +58,6 @@
 * Integración numérica y EDOs.
 * Números random y estadística.
 * Regresión Lineal y optimización.
+
+##Notebook Estático
+http://nbviewer.ipython.org/github/fnbellomo/curso_python_cientifico/blob/master/Problemas.ipynb
